@@ -1,0 +1,12 @@
+F:\رزومه\Project API\ToDOList\src\Domin\bin\Debug\net7.0\Domin.deps.json
+F:\رزومه\Project API\ToDOList\src\Domin\bin\Debug\net7.0\Domin.dll
+F:\رزومه\Project API\ToDOList\src\Domin\bin\Debug\net7.0\Domin.pdb
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.csproj.AssemblyReference.cache
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.GeneratedMSBuildEditorConfig.editorconfig
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.AssemblyInfoInputs.cache
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.AssemblyInfo.cs
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.csproj.CoreCompileInputs.cache
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.dll
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\refint\Domin.dll
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\Domin.pdb
+F:\رزومه\Project API\ToDOList\src\Domin\obj\Debug\net7.0\ref\Domin.dll

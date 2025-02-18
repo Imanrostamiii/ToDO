@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:4e5261fa-a28b-4f3b-8438-afb3b176119e:dbContext" value="Infrastructure.persistence.ApplicationDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="persistence\Miagration" />
+      </map>
+    </option>
+  </component>
+</project>
