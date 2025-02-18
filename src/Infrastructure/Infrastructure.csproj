@@ -10,7 +10,6 @@
       <Folder Include="Handls\" />
       <Folder Include="persistence\Db\" />
       <Folder Include="persistence\Miagration\" />
-      <Folder Include="Repository\" />
     </ItemGroup>
 
     <ItemGroup>

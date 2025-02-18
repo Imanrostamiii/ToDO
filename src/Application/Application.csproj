@@ -9,10 +9,8 @@
     <ItemGroup>
       <Folder Include="Behavious\" />
       <Folder Include="Commends\" />
-      <Folder Include="Contracts\" />
       <Folder Include="ExCeption\" />
       <Folder Include="Mapping\" />
-      <Folder Include="Modeles\" />
       <Folder Include="Queryes\" />
       <Folder Include="validators\" />
       <Folder Include="Wrappers\" />
@@ -20,6 +18,10 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Domin\Domin.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="6.0.0-preview.4.21253.5" />
     </ItemGroup>
 
 </Project>

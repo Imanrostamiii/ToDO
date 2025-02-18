@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAS+wzWW4PCC/v6tCkHTmsxcCPm4oE55oJjk7YP9EtEwHd2bO6PowqJO4ZHsnhXsS0EZ/TkuAGSm5t7dgYQ0Kw==",
+  "dgSpecHash": "FDKMjaPESXzXkCFqSO5EBvn9i/RrEoD3ASzP32yM9CBUx9ySDiAaZes9P3XXy24ikXFYX/ktxMu+dFLIaQzTjQ==",
   "success": true,
   "projectFilePath": "F:\\رزومه\\Project API\\ToDOList\\src\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\plus system\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.4.21253.5\\microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
+    "C:\\Users\\plus system\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.4.21253.7\\microsoft.extensions.primitives.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\plus system\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.4.21253.7\\system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\plus system\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.4.21253.7\\system.runtime.compilerservices.unsafe.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
   "logs": []
 }

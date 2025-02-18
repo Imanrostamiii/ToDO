@@ -15,4 +15,6 @@ public class ApplicationDbContext:DbContext
         base.OnModelCreating(modelBuilder);
         
     }
+    public DbSet<ToDo> ToDoS { get; set; }
+    public DbSet<ToDoItem> ToDoItems { get; set; }
 }
