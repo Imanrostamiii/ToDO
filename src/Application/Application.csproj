@@ -6,4 +6,20 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Behavious\" />
+      <Folder Include="Commends\" />
+      <Folder Include="Contracts\" />
+      <Folder Include="ExCeption\" />
+      <Folder Include="Mapping\" />
+      <Folder Include="Modeles\" />
+      <Folder Include="Queryes\" />
+      <Folder Include="validators\" />
+      <Folder Include="Wrappers\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Domin\Domin.csproj" />
+    </ItemGroup>
+
 </Project>

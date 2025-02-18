@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Domin/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domin.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domin.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domin/1.0.0": {
+      "type": "project",
+      "path": "../Domin/Domin.csproj",
+      "msbuildProject": "../Domin/Domin.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Domin >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\plus system\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\رزومه\\Project API\\ToDOList\\src\\Domin\\Domin.csproj": {
+              "projectPath": "F:\\رزومه\\Project API\\ToDOList\\src\\Domin\\Domin.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,4 +6,19 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Handls\" />
+      <Folder Include="persistence\Db\" />
+      <Folder Include="persistence\Miagration\" />
+      <Folder Include="Repository\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Application\Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
+    </ItemGroup>
+
 </Project>
