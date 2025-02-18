@@ -1,8 +1,4 @@
-﻿using Domin.Entites;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-
-namespace Infrastructure.persistence.Configuration;
+﻿namespace Infrastructure.persistence.Configuration;
 
 public class ToDoConfiguration:IEntityTypeConfiguration<ToDo>
 {

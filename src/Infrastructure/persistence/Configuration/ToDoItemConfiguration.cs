@@ -15,5 +15,10 @@ public class ToDoItemConfiguration:IEntityTypeConfiguration<ToDoItem>
         builder.Property(x => x.Title)
             .IsRequired()
             .HasMaxLength(300);
+
+        builder.HasOne(x => x.ToDo)
+            .WithMany(x => x.ToDoItems)
+            .HasForeignKey(x => x.ToDoId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }

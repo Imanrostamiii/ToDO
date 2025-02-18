@@ -7,4 +7,6 @@ public class ToDo:BaseEntity
     public String? Description { get; set; }
 
     public String? ImagPath { get; set; }
+
+    public virtual IEnumerable<ToDoItem> ToDoItems { get; set; }
 }
